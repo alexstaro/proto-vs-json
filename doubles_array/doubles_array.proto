@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message TestData {
+  repeated double field1 = 1;
+}
